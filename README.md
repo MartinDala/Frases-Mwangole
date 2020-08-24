@@ -1,6 +1,11 @@
 # APP DE FRASES MWANGOLÉ 
 
-A new Flutter application.
+Minha primeira aplicação feita com flutter/dart
+
+![Imagem 1](https://github.com/MartinDala/Frases-Mwangole/blob/master/Screenshot_1590348173.png)
+![Imagem 2](https://github.com/MartinDala/Frases-Mwangole/blob/master/Screenshot_1590348177.png)
+![Imagem 3](https://github.com/MartinDala/Frases-Mwangole/blob/master/Screenshot_1590348182.png)
+![Imagem 4](https://github.com/MartinDala/Frases-Mwangole/blob/master/Screenshot_1590348190.png)
 
 ## Getting Started
 
